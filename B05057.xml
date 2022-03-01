@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rub for rub: or, An answer to a physicians pamphlet, styled, The stroker stroked.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05057</idno>
+            <idno type="STC">Wing R2167</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[183]</idno>
+            <idno type="EEBO-CITATION">99885023</idno>
+            <idno type="PROQUEST">ocm99885023</idno>
+            <idno type="VID">182852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05057)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182852)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[184])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rub for rub: or, An answer to a physicians pamphlet, styled, The stroker stroked.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "COme hither, Doctor, and behold in short ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Physicians --  Malpractice --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182852:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>RUB for RUB: OR, AN ANSWER TO A PHYSICIANS PAMPHLET, STYLED, The Stroker ſtroked.</head>
+            <l>COme hither, Doctor, and behold in ſhort</l>
+            <l>Something of truth, Sir, touching your report.</l>
+            <l>You with your beaſtly ſtories would delude</l>
+            <l>The Faith and Wiſdom of the Multitude.</l>
+            <l>Ha, ha, Phyſician, is your envy ſuch?</l>
+            <l>Are you ſo touchy, yet not brook a touch?</l>
+            <l>You play'd the Poet but wer't much deceiv'd,</l>
+            <l>To think your Fictions would be believ'd.</l>
+            <l>We laugh and ſcorn thy envious Libel, piſh,</l>
+            <l>Tis but the Froath of Malice, Womaniſh.</l>
+            <l>Whip behind Coachman, crys this envious Boy</l>
+            <l>Becauſe he cannot, what that doth, enjoy.</l>
+            <l>You envy't as his Happineſs, and grutch</l>
+            <l>Becauſe you cannot grope where he doth touch:</l>
+            <l>Doctor, your Practice is too ſcant I trow,</l>
+            <l>Which makes you wound (anothers Credit) ſo.</l>
+            <l>And ſo you're in an Error moſt profound,</l>
+            <l>For he in Duty ought to Heal, not Wound.</l>
+            <l>Alas, his Craft he cannot always ſmoother,</l>
+            <l>We ſee he doth the one as oft as th' other:</l>
+            <l>Doctor, you could not when you would defame,</l>
+            <l>You look't aſquint, Sir, and ſo miſs'd your aim.</l>
+            <l>True, you ſtrook high, but wound you were not able,</l>
+            <l>For what you ſtrook at was invulnerable.</l>
+            <l>Twas a Conſumption in the Purſe, I fear,</l>
+            <l>That made the Remedy, preſcrib'd a Jear.</l>
+            <l>As once <hi>Demetrius</hi> fearing loſs of Gain</l>
+            <l>Strove to confound what Heav'n did maintain.</l>
+            <l>Alas, you fear your Craft ſhould come to nought,</l>
+            <l>Becauſe ſuch Wonders by his Hands are wrought,</l>
+            <l>His Deeds pronounce his VVorth: But let us know</l>
+            <l>VVhat Honour we, to you Phyſicians owe.</l>
+            <l>VVe're not beholding unto you I'm ſure,</l>
+            <l>Not you, but 'tis our Money gives us Cure.</l>
+            <l>Ye're Rhetoricians in our Cure, we ſee,</l>
+            <l>Tis wholly done by a <hi>Synecdoche.</hi>
+            </l>
+            <l>Some Griefs you throughly Cure, and they are theſe;</l>
+            <l>A rich mans Golden Pluriſie finds eaſe.</l>
+            <l>And preſently you Cure, as 'twere by ſlight,</l>
+            <l>A heavy hearted Purſe and make it light.</l>
+            <l>Doctor, your Art to every Grief extends,</l>
+            <l>But yet you do your Cures for your own ends.</l>
+            <l>A Friend of mine to prove the Doctor came,</l>
+            <l>And brought a Glaſs of Urin in's own name.</l>
+            <l>He took the Glaſs, he ſhak't it, then reply'd,</l>
+            <l>A Fever ſtrong, but faith the Doctor ly'd.</l>
+            <l>A Doctor for a Horſe I ſwear he is,</l>
+            <l>The feav'riſh Urin was a Horſes Piſs.</l>
+            <l>And by this inſtance, we may plainly ſee,</l>
+            <l>You're the Deceiver, Doctor, and not he.</l>
+            <l>Then hee's a <hi>Jeſuit,</hi> but you're in the wrong:</l>
+            <l>Phyſician, Cure thy ſelf, thy Tongue's too long.</l>
+            <l>Rather than nought, the very Truth you'l ſlander,</l>
+            <l>The Doctor's want of Practice makes him maunder.</l>
+            <l>But yet his envious Fictive Brain's not able,</l>
+            <l>To droll Reality into a Fable.</l>
+            <l>His hand is truly powerful whoſe ſtroke</l>
+            <l>Twice diſpoſſeſt and made the Devil ſmoak.</l>
+            <l>VVhat if he clip'd and clap'd, what's that to you?</l>
+            <l>You've clip'd and clap'd, and have been clap'd too.</l>
+            <l>For, if to me my Author have not ly'd,</l>
+            <l>Though nor, o'th' back, he once was Scarifi'd.</l>
+            <l>Your foul report betrays you, and in truth,</l>
+            <l>I fear the Doctor hath a liquoriſh Tooth.</l>
+            <l>
+               <hi>Her Stocking off, he ſtrokes her Lilly-foot,</hi>
+            </l>
+            <l>What then? The Doctor had a minde to do't.</l>
+            <l>
+               <hi>Her Legs, her Knees, her Thighs, a little higher.</hi>
+            </l>
+            <l>And there's the Doctors Center of Deſire;</l>
+            <l>VVhere he, as I for certain underſtand,</l>
+            <l>Hath ſearched many a wenches Country-land.</l>
+            <l>One VVench, I hear, and her Diſcaſe was this,</l>
+            <l>And that no ſtrange one is, the <hi>Green-ſickneſs,</hi>
+            </l>
+            <l>He ſaw the Maid was in a needy mood,</l>
+            <l>He ſtrait preſum'd a <hi>Clyſter</hi> might be good:</l>
+            <l>He lays her on the bed, O beaſtly ſtory!</l>
+            <l>And then thruſts in his long <hi>Suppoſitory,</hi>
+            </l>
+            <l>And tells her on his Faith, deny't who can,</l>
+            <l>Nothing ſo good for her, as <hi>th' Oyl of Man.</hi>
+            </l>
+            <l>And then I'm ſure, if what is true, were ſpoke,</l>
+            <l>She gave him <hi>tuch</hi> for <hi>tuch,</hi> and <hi>ſtroke</hi> for <hi>ſtroke.</hi>
+            </l>
+            <l>But paſſing this, and many o'th' like ſort,</l>
+            <l>Doctor, your Practice hath no good report;</l>
+            <l>And all ſuppoſe by your obſcene Narration,</l>
+            <l>Your <hi>Brains</hi> and <hi>Back</hi> want a ſevere Purgation,</l>
+            <l>Your Pamphlet falſe, Reaſon it ſelf implyes,</l>
+            <l>For 'twas all Poetry, and therefore Lyes.</l>
+            <lg>
+               <l>Thus you and I upon the Matter <hi>Strike,</hi>
+               </l>
+               <l>You give a <hi>Rub,</hi> and I Return the <hi>Like.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
